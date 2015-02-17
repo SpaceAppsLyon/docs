@@ -4,7 +4,7 @@ Depuis son introduction en 2012, le challenge international Space Apps est deven
 
 Le succès de Space Apps dépend des organisateurs locaux autour du monde, qui font fructifier les contributions de centaines d'organisations - contributions financières, d'expertise, ou de support au coeur même des communautés locales. Aux évènements Space Apps, des équipes de scientifiques, technologues, designers et d'entrepreneurs travaillent ensemble pour développer des réponses à certains des problèmes les plus urgents sur Terre et dans l'espace, utilisant des données publiques de la NASA.
 
-Cette année, la NASA met spécialement l'accent sur les Femmes & Les Données (Women in Data). Pour la première fois, la NASA offre un bootcamp "data" pour les participants interessées par le développement de leurs compétences en programmation/data et gestion de projet. Le bootcamp sera ouvert à tous et diffusé en ligne depuis le lieu principal à New York. En lien avec cette thématique, le bootcamp contactera les associations et organisations féminines dans les communautés des données et des makers/hackers pour participer et encourager la participation d'équipes dirigées par des femmes dans le hackathon.
+Cette année, la NASA met spécialement l'accent sur les Femmes & Les Données (Women in Data). Pour la première fois, la NASA offre un bootcamp "data" pour les participants interessés par le développement de leurs compétences en programmation/data et gestion de projet. Le bootcamp sera ouvert à tous et diffusé en ligne depuis le lieu principal à New York. En lien avec cette thématique, le bootcamp contactera les associations et organisations féminines dans les communautés des données et des makers/hackers pour participer et encourager la participation d'équipes dirigées par des femmes dans le hackathon.
 
 #FAQ:
 
@@ -15,7 +15,7 @@ Le challenge encourage une collaboration et un engagement au travers des fronti�
 
 ###Pourquoi y participer ? Qu'est ce que cela apporte ?
 
-Le challenge International Space Apps démontre l'application d'expertise inexploitée, inattendue et inexplorée pour résoudre des problèmes difficiles rencontrées par des organisations telles que la NASA.
+Le challenge International Space Apps démontre l'application d'expertise inexploitée, inattendue et inexplorée pour résoudre des problèmes difficiles rencontrés par des organisations telles que la NASA.
 
 C'est repenser et remixer la connaissance et l'inconnu, et créer un terreau pour introduire et implémenter des idées nouvelles ou revisitées.
 
