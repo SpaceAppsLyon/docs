@@ -1,4 +1,4 @@
-# Traduction de la présentation officielle de Space Apps 2015 pour les organisateurs locaux
+## Traduction de la présentation officielle de Space Apps 2015 pour les organisateurs locaux
 
 Depuis son introduction en 2012, le challenge international Space Apps est devenu le plus grand hackathon mondial, faisant collaborer des milliers de citoyens sur la planète avec la NASA pour concevoir des solutions innovantes à des problèmes globaux. Au dernier évènement Space Apps en 2014, plus de 8000 citoyens du monde dans 46 pays et 95 villes ont participé. En 2015, le challenge international Space Apps aura lieu dans plus de 115 villes autour du monde et proposera des douzaines de challenges sur les thèmes de la Terre, de l'Espace, des Humains et de la Robotique.
 
@@ -15,29 +15,24 @@ Le challenge encourage une collaboration et un engagement au travers des fronti�
 
 ###Pourquoi y participer ? Qu'est ce que cela apporte ?
 
-Why do it? What is the value?
-The International Space Apps Challenge demonstrates the application of untapped, unexpected, uncharted expertise in helping organizations solve tough challenges.
-It’s about rethinking and remixing what is known with what isn’t, and creating a pipeline for introducing and implementing new or recombinant ideas.
+Le challenge International Space Apps démontre l'application d'expertise inexploitée, inattendue et inexplorée pour résoudre des problèmes difficiles rencontrées par des organisations telles que la NASA.
+
+C'est repenser et remixer la connaissance et l'inconnu, et créer un terreau pour introduire et implémenter des idées nouvelles ou revisitées.
 
 ### Collaboration :
 
-Collaboration:
-The International Space Apps Challenge is an unprecedented international collaboration between government agencies, organizations and academic institutions from around the world.  
-
+Le challenge International Space Apps  est une collaboration internationale sans précédent entre des agences gouvernementales (NASA), des entreprises et des institutions académiques autour de la planète.
 
 ### Challenges / Solutions :
 
-Challenges / Solutions:
-At the International Space Apps Challenge we open up challenges of space exploration and social need and empower citizens around the world to solve those challenges.
-The event engages a broad group of diverse participants in collective deliberation and action focused on generating innovative and relevant solutions to pressing problems.
-The exploration of space is, by necessity, a unified international effort - and diversity of experience and perspective inevitably produces a better product.
-The event draws on the talents and initiative of people from around the world, who volunteer their time to respond to real-world problems.
+Au challenge International Space Apps, nous explorons des challenges de l'exploration spatiale et des besoins de la société humaine, et nous offrons l'occasion à des citoyens autour du monde de résoudre ces problèmes. 
+Cet évènement engage un groupe large et divers de participants dans une délibération collective et focalisée sur l'action, afin de générer des solutions adéquates et innovantes à des problèmes qu'il nous est urgent de résoudre.
+L'exploration de l'espace est, par nécéssité, un effort uni à l'international - et la diversité des expériences et perspectives produit toujours un meilleur résultat.
+Ce challenge attire les talents et initiatives de personnes partout autour du monde, qui donnent de leur temps pour répondre à des problèmes réels.
 
 ### Pourquoi les Femmes & les Données ? (Women in Data)
 
-Why Women in Data?
-The White House Council on Women and Girls has shown continual support for quality education and high paying career opportunities for women in science, technology, engineering, and math, promoting public leadership for girls, and expanding support for women entrepreneurs. NASA is committed to supporting those same objectives in the course of its work to provide for the widest practicable and appropriate dissemination of and engagement with its data.
-Women have historically been underrepresented at these types of events, and we are committed to supporting their engagement, learning and leadership in appropriate ways as we help build a strong and diverse community.
-
+Le conseil de la Maison Blanche sur les Femmes a montré un support constant pour la qualité de l'éduction et des opportunités de carrières à haut salaire pour les femmes dans la science, la technologie, l'ingénierie, les mathématiques, a promu la gérance et le leadership par les femmes, et développe son support aux femmes entrepreneurs. 
+La NASA est dévouée à supporter les mêmes objectifs dans l'objet de son exercice pour promouvoir une dissémination appropriée et très large de ses données et de leur utilisation. Les femmes ont historiquement été sous-representées dans ce genre d'évènements, et nous sommes entièrement dévoués à supporter leur engagement, apprentissage et leadership pour créer une communauté forte et diverse. 
 
 Source : https://docs.google.com/document/d/121atFnagTvYOjzXFDvk-rAAxyA0y-bG_zWp-vWxftj4/edit
