@@ -1,7 +1,7 @@
-
-
+1
 00:00:00 --> 00:00:04
 Bonjour ! Je suis "Cady" Coleman, une astronaute de la NASA.
+2
 00:00:04 --> 00:00:0X
 Bien que j'ai voyagé sur environ 64 millions de miles dans l'espace, et travaillé à distance pendant six mois sur l'ISS en bas orbite, être un astronaute n'est qu'un des rôles qui m'offre des challenges.
 Je suis aussi une chimiste et scientifique en polymères, ingénieure et officier militaire, une musicienne et pilote, et, une épouse et une mère.
