@@ -1,22 +1,177 @@
 1
-00:00:00 --> 00:00:04
+00:00:00,000 --> 00:00:03,069
 Bonjour ! Je suis "Cady" Coleman, une astronaute de la NASA.
+
 2
-00:00:04 --> 00:00:0X
-Bien que j'ai voyagÃ© sur environ 64 millions de miles dans l'espace, et travaillÃ© Ã  distance pendant six mois sur l'ISS en bas orbite, Ãªtre un astronaute n'est qu'un des rÃ´les qui m'offre des challenges.
-Je suis aussi une chimiste et scientifique en polymÃ¨res, ingÃ©nieure et officier militaire, une musicienne et pilote, et, une Ã©pouse et une mÃ¨re.
-Chacun de ces rÃ´les me pose diffÃ©rents challenges, essayer de jouer de la flÃ»te pendant un orbite de la planÃ¨te, Ã  17 000 miles/heures, en synchro avec un flÃ»tiste pendant qu'il est sur la Terre. 
-Un dÃ©fi ? Oui... Gratifiant ? Absolument !
-Les challenges difficiles requiÃ¨rent des compÃ©tences de rÃ©solutions de problÃ¨mes crÃ©atifs et un raisonnement propice Ã  l'innovation,
-en utilisant les informations et outils que nous avons. C'est ce que nous faisons tous les jours Ã  la NASA,
-et c'est ce que nous vous demandons au challenge Space Apps de cette annÃ©e, 10 au 12 avril. 
-La NASA propose deux douzaines de challenges dans quatre catÃ©gories : la Terre, l'Espace, les Humains et la Robotique.
-Nous fournissons les donnÃ©es et outils de la NASA, et nous vous demandons d'apporter vos compÃ©tences
-et votre vision au process de rÃ©solution de problÃ¨mes. A Space Apps, vous aurez la possibilitÃ© de rejoindre une Ã©quipe
-avec des ingÃ©nieurs et scientifiques, (bien sÃ»r, nous sommes la NASA !), mais aussi des rÃªveurs et designers,
-dÃ©veloppeurs et makers, storytellers and business dev qui vont participer depuis plus de 130 endroits diffÃ©rents 
-sur la planÃ¨te ! Et je suis sÃ»re que l'ISS sera avec nous. Cette annÃ©e, le focus est 
-sur les femmes dans la donnÃ©e (Women in Data). Les femmes sont sous-representÃ©es dans ce domaine, et Ã§a se voit. 
-Nous aimerons voir plus de femmes utiliser les donnÃ©es de la NASA, alors amenez vos collÃ¨gues, amies et membres 
-de la famille, et vos voisines aussi ! Vous pouvez vous inscrire aujourd'hui Ã  spaceappschallenge.org. 
-Voyons ce que l'on peut crÃ©er ensemble sur la Terre...
+00:00:03,400 --> 00:00:06,300
+Bien que j'ai voyagé sur environ 64 millions de miles dans l'espace
+
+3
+00:00:06,300 --> 00:00:12,000
+et travaillé à distance pendant six mois sur l'ISS en bas orbite
+
+4
+00:00:12,000 --> 00:00:15,800
+être un astronaute n'est qu'un des rôles qui m'offre des challenges.
+
+5
+00:00:16,800 --> 00:00:20,000
+Je suis aussi une chimiste et scientifique en polymères
+
+6
+00:00:20,000 --> 00:00:22,000
+ingénieure et officier militaire
+
+7
+00:00:22,300 --> 00:00:25,000
+une musicienne et pilote
+
+8
+00:00:25,000 --> 00:00:27,000
+et une épouse et une mère.
+
+9
+00:00:27,000 --> 00:00:30,000
+Chacun de ces rôles me pose différents challenges
+
+10
+00:00:30,000 --> 00:00:33,000
+essayer de jouer de la flûte pendant un orbite de la planète
+
+11
+00:00:33,000 --> 00:00:35,000
+à 17 000 miles/heures
+
+12
+00:00:35,000 --> 00:00:40,000
+en synchro avec un flûtiste pendant qu'il est sur la Terre. 
+
+13
+00:00:40,000 --> 00:00:43,200
+Un défi ? Oui...
+Gratifiant ? Absolument !
+
+14
+00:00:44,000 --> 00:00:48,000
+Les challenges difficiles requièrent des compétences de résolutions de problèmes créatifs
+
+15
+00:00:48,000 --> 00:00:49,000
+et un raisonnement propice à l'innovation,
+
+16
+00:00:49,000 --> 00:00:52,000
+en utilisant les informations et outils que nous avons.
+
+17
+00:00:52,500 --> 00:00:55,000
+C'est ce que nous faisons tous les jours à la NASA,
+
+18
+00:00:55,000 --> 00:00:57,500
+et c'est ce que nous vous demandons
+
+19
+00:00:57,500 --> 00:01:01,000
+au challenge Space Apps de cette année, 10 au 12 avril. 
+
+20
+00:01:01,800 --> 00:01:06,000
+La NASA propose deux douzaines de challenges dans quatre catégories :
+
+21
+00:01:07,000 --> 00:01:08,300
+la Terre,
+
+22
+00:01:08,300 --> 00:01:09,500
+l'Espace,
+
+23
+00:01:09,600 --> 00:01:10,500
+les Humains,
+
+24
+00:01:10,500 --> 00:01:12,000
+et la Robotique.
+
+25
+00:01:12,000 --> 00:01:15,000
+Nous fournissons les données et outils de la NASA,
+
+26
+00:01:15,000 --> 00:01:16,500
+et nous vous demandons
+
+27
+00:01:16,500 --> 00:01:21,000
+d'apporter vos compétences et votre vision au process de résolution de problèmes.
+
+28
+00:01:21,500 --> 00:01:23,000
+A Space Apps,
+
+29
+00:01:23,000 --> 00:01:26,000
+vous aurez la possibilité de rejoindre une équipe avec,
+
+30
+00:01:26,000 --> 00:01:27,500
+des ingénieurs et scientifiques,
+
+31
+00:01:27,500 --> 00:01:29,500
+(bien sûr, nous sommes la NASA !),
+
+32
+00:01:29,500 --> 00:01:33,000
+mais aussi des rêveurs et designers,
+
+33
+00:01:33,200 --> 00:01:35,000
+codeurs et makers,
+
+34
+00:01:35,000 --> 00:01:37,000
+storytellers and développeurs
+
+35
+00:01:37,000 --> 00:01:42,000
+qui vont participer depuis plus de 130 endroits différents sur la planète !
+
+36
+00:01:42,000 --> 00:01:46,000
+Et je suis sûre que l'ISS sera avec nous.
+
+37
+00:01:46,800 --> 00:01:50,000
+Cette année, le focus est sur les femmes dans la donnée (Women in Data).
+
+38
+00:01:50,000 --> 00:01:54,000
+Les femmes sont sous-representées dans ce domaine, et ça se voit. 
+
+39
+00:01:54,000 --> 00:01:57,500
+Nous aimerions voir plus de femmes utiliser les données de la NASA,
+
+40
+00:01:57,500 --> 00:02:00,000
+alors amenez vos collègues, amies et membres de la famille
+
+41
+00:02:00,000 --> 00:02:01,000
+et vos voisines aussi !
+
+42
+00:02:01,700 --> 00:02:04,000
+Vous pouvez vous inscrire aujourd'hui
+
+43
+00:02:04,000 --> 00:02:06,000
+à spaceappschallenge.org. 
+
+44
+00:02:06,000 --> 00:02:10,000
+Voyons ce que l'on peut créer ensemble sur la Terre...
+
